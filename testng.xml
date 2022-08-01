@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Reggresson suite">
+
+<listeners>
+<listener class-name="com.surveyMonkey.utilities.ExtentReportManager"/>
+</listeners>
+
+<parameter name = "browsername" value ="edge"/>
+
+<test name = "TC001_verifyLoginPageIsDisplayed">
+    <classes>
+   	  <class name="com.surveyMonkey.testCases.TC001_verifyLoginPageIsDisplayed"/>
+     </classes>
+ </test>
+     
+     
+<test name = "TC002_validateSignupFree">
+    <classes>
+     	<class name="com.surveyMonkey.testCases.TC002_validateSignupFree"/>
+     </classes>
+ </test>
+ 
+     
+ <test name = "TC003_UserLoginTestCase">
+    <classes>
+     	 <class name="com.surveyMonkey.testCases.TC003_UserLoginTestCase"/>
+    </classes>
+ </test>
+      
+      
+      
+  
+ 
+</suite> <!-- Reggresson suite -->

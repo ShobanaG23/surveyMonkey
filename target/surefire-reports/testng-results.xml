@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Reggresson suite" duration-ms="51349" started-at="2022-08-01T17:54:16Z" finished-at="2022-08-01T17:55:07Z">
+    <groups>
+    </groups>
+    <test name="TC001_verifyLoginPageIsDisplayed" duration-ms="15014" started-at="2022-08-01T17:54:16Z" finished-at="2022-08-01T17:54:31Z">
+      <class name="com.surveyMonkey.testCases.TC001_verifyLoginPageIsDisplayed">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.surveyMonkey.testCases.TC001_verifyLoginPageIsDisplayed@148a24a]" name="setup" is-config="true" duration-ms="5772" started-at="2022-08-01T17:54:16Z" finished-at="2022-08-01T17:54:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTestCase()[pri:0, instance:com.surveyMonkey.testCases.TC001_verifyLoginPageIsDisplayed@148a24a]" name="loginTestCase" duration-ms="8129" started-at="2022-08-01T17:54:22Z" finished-at="2022-08-01T17:54:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.surveyMonkey.testCases.TC001_verifyLoginPageIsDisplayed@148a24a]" name="teardown" is-config="true" duration-ms="951" started-at="2022-08-01T17:54:30Z" finished-at="2022-08-01T17:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.surveyMonkey.testCases.TC001_verifyLoginPageIsDisplayed -->
+    </test> <!-- TC001_verifyLoginPageIsDisplayed -->
+    <test name="TC002_validateSignupFree" duration-ms="11002" started-at="2022-08-01T17:54:32Z" finished-at="2022-08-01T17:54:43Z">
+      <class name="com.surveyMonkey.testCases.TC002_validateSignupFree">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.surveyMonkey.testCases.TC002_validateSignupFree@1965d37]" name="setup" is-config="true" duration-ms="8671" started-at="2022-08-01T17:54:32Z" finished-at="2022-08-01T17:54:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SignupFreeTestCase()[pri:0, instance:com.surveyMonkey.testCases.TC002_validateSignupFree@1965d37]" name="SignupFreeTestCase" duration-ms="1375" started-at="2022-08-01T17:54:40Z" finished-at="2022-08-01T17:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignupFreeTestCase -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.surveyMonkey.testCases.TC002_validateSignupFree@1965d37]" name="teardown" is-config="true" duration-ms="953" started-at="2022-08-01T17:54:42Z" finished-at="2022-08-01T17:54:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.surveyMonkey.testCases.TC002_validateSignupFree -->
+    </test> <!-- TC002_validateSignupFree -->
+    <test name="TC003_UserLoginTestCase" duration-ms="24819" started-at="2022-08-01T17:54:43Z" finished-at="2022-08-01T17:55:07Z">
+      <class name="com.surveyMonkey.testCases.TC003_UserLoginTestCase">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.surveyMonkey.testCases.TC003_UserLoginTestCase@b4bc72]" name="setup" is-config="true" duration-ms="5355" started-at="2022-08-01T17:54:43Z" finished-at="2022-08-01T17:54:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyUserLoginTestCase()[pri:0, instance:com.surveyMonkey.testCases.TC003_UserLoginTestCase@b4bc72]" name="verifyUserLoginTestCase" duration-ms="18330" started-at="2022-08-01T17:54:48Z" finished-at="2022-08-01T17:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLoginTestCase -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.surveyMonkey.testCases.TC003_UserLoginTestCase@b4bc72]" name="teardown" is-config="true" duration-ms="1129" started-at="2022-08-01T17:55:06Z" finished-at="2022-08-01T17:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.surveyMonkey.testCases.TC003_UserLoginTestCase -->
+    </test> <!-- TC003_UserLoginTestCase -->
+  </suite> <!-- Reggresson suite -->
+</testng-results>

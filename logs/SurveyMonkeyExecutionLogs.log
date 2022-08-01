@@ -1,0 +1,121 @@
+[INFO ] 31-07-2022 02:15:24.826 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:15:51.209 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 31-07-2022 02:15:52.665 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:26:25.402 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:26:33.853 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:26:39.643 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:26:43.198 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:26:49.094 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:27:11.739 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 31-07-2022 02:27:12.808 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:28:11.155 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:28:16.369 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:28:21.037 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:28:21.913 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 31-07-2022 02:28:22.815 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:28:27.367 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:28:46.120 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 31-07-2022 02:28:47.016 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:30:47.280 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:30:54.298 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 31-07-2022 02:30:55.167 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:30:59.882 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:31:00.854 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 31-07-2022 02:31:01.777 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 31-07-2022 02:31:06.896 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 31-07-2022 02:31:26.555 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 31-07-2022 02:31:27.489 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 12:01:59.519 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 12:02:21.762 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 01-08-2022 12:02:22.720 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 01-08-2022 12:02:29.095 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 12:02:30.566 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 01-08-2022 12:02:31.569 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 01-08-2022 12:02:36.120 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 12:02:56.853 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 01-08-2022 12:02:57.812 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:09:18.726 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:09:28.532 TC001_verifyLoginPageIsDisplayed - screenshots captured succesfully
+[INFO ] 01-08-2022 01:09:28.535 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 01-08-2022 01:09:29.553 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:09:37.574 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:09:39.028 TC002_validateSignupFree - screenshots captured succesfully
+[INFO ] 01-08-2022 01:09:39.030 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 01-08-2022 01:09:40.257 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:09:48.241 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:09:54.222 TC003_UserLoginTestCase - screenshots captured succesfully
+[INFO ] 01-08-2022 01:10:07.088 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 01-08-2022 01:10:08.181 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:17:07.817 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:17:13.809 TC001_verifyLoginPageIsDisplayed - screenshots captured succesfully
+[INFO ] 01-08-2022 01:17:13.812 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 01-08-2022 01:17:14.770 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:17:19.474 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:17:21.222 TC002_validateSignupFree - screenshots captured succesfully
+[INFO ] 01-08-2022 01:17:21.223 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 01-08-2022 01:17:22.169 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:17:28.175 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:17:34.038 TC003_UserLoginTestCase - screenshots captured succesfully
+[INFO ] 01-08-2022 01:17:48.460 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 01-08-2022 01:17:49.556 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:20:05.070 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:20:14.727 TC001_verifyLoginPageIsDisplayed - screenshots captured succesfully
+[INFO ] 01-08-2022 01:20:14.731 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 01-08-2022 01:20:15.868 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:20:20.725 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:20:22.190 TC002_validateSignupFree - screenshots captured succesfully
+[INFO ] 01-08-2022 01:20:22.191 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 01-08-2022 01:20:23.107 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:20:27.768 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:20:37.001 TC003_UserLoginTestCase - screenshots captured succesfully
+[INFO ] 01-08-2022 01:20:57.198 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 01-08-2022 01:20:58.167 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:22:14.591 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:22:19.456 TC001_verifyLoginPageIsDisplayed - screenshots captured succesfully
+[INFO ] 01-08-2022 01:22:19.459 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 01-08-2022 01:22:20.399 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:22:25.173 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:22:26.838 TC002_validateSignupFree - screenshots captured succesfully
+[INFO ] 01-08-2022 01:22:26.839 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 01-08-2022 01:22:27.753 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:22:32.600 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:22:40.616 TC003_UserLoginTestCase - screenshots captured succesfully
+[INFO ] 01-08-2022 01:22:53.748 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 01-08-2022 01:22:54.678 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:41:08.057 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:41:15.013 TC001_verifyLoginPageIsDisplayed - screenshots captured succesfully
+[INFO ] 01-08-2022 01:41:15.016 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 01-08-2022 01:41:16.051 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:41:21.910 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:41:24.453 TC002_validateSignupFree - screenshots captured succesfully
+[INFO ] 01-08-2022 01:41:24.453 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 01-08-2022 01:41:25.449 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:41:42.221 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:41:47.956 TC003_UserLoginTestCase - screenshots captured succesfully
+[INFO ] 01-08-2022 01:42:01.497 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 01-08-2022 01:42:02.606 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:50:26.832 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:50:40.095 TC001_verifyLoginPageIsDisplayed - screenshots captured succesfully
+[INFO ] 01-08-2022 01:50:40.099 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 01-08-2022 01:50:41.140 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:50:47.957 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:50:50.579 TC002_validateSignupFree - screenshots captured succesfully
+[INFO ] 01-08-2022 01:50:50.579 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 01-08-2022 01:50:51.733 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:50:57.010 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:51:03.065 TC003_UserLoginTestCase - screenshots captured succesfully
+[INFO ] 01-08-2022 01:51:15.025 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 01-08-2022 01:51:15.975 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:54:22.497 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:54:30.641 TC001_verifyLoginPageIsDisplayed - screenshots captured succesfully
+[INFO ] 01-08-2022 01:54:30.645 TC001_verifyLoginPageIsDisplayed - survey monkey log in page is displayed
+[INFO ] 01-08-2022 01:54:31.618 TC001_verifyLoginPageIsDisplayed - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:54:40.731 TC002_validateSignupFree - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:54:42.106 TC002_validateSignupFree - screenshots captured succesfully
+[INFO ] 01-08-2022 01:54:42.106 TC002_validateSignupFree - Sign up free link is dispalyed
+[INFO ] 01-08-2022 01:54:43.060 TC002_validateSignupFree - surveymonkey application  is closed
+[INFO ] 01-08-2022 01:54:48.493 TC003_UserLoginTestCase - surveymonkey application homepage is displayed
+[INFO ] 01-08-2022 01:54:54.526 TC003_UserLoginTestCase - screenshots captured succesfully
+[INFO ] 01-08-2022 01:55:06.824 TC003_UserLoginTestCase - dashboard link is displayed
+[INFO ] 01-08-2022 01:55:07.955 TC003_UserLoginTestCase - surveymonkey application  is closed
+[INFO ] 01-08-2022 02:00:16.220 TC001_verifyLoginPageIsDisplayed - surveymonkey application homepage is displayed
